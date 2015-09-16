@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大方廣曼殊室利經
+#+DATE: 2015-08-30 20:30:02.263570
+#+PROPERTY: JUAN 0
